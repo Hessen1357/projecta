@@ -1,1 +1,2 @@
 Das ist bar.txt Datei.
+Aenderung 20.02.2010 um 12:21
